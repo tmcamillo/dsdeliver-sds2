@@ -349,7 +349,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XxKSsFIMEeugidN2TbX9wg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_wj0UAFIMEeuTqoYHUTCSpQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_XMuI-1IMEeugidN2TbX9wg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pImzwFIZEeug4euBIpkPcA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_XMuI-1IMEeugidN2TbX9wg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XxK5wFIMEeugidN2TbX9wg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -377,7 +377,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XxLg1FIMEeugidN2TbX9wg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_wj4lcFIMEeuTqoYHUTCSpQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_XMs6yFIMEeugidN2TbX9wg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_pIsTUFIZEeug4euBIpkPcA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_XMs6yFIMEeugidN2TbX9wg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_XxMH4FIMEeugidN2TbX9wg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1080,7 +1080,7 @@
     <bindings xmi:id="_XNj2Y1IMEeugidN2TbX9wg" keySequence="ALT+CR" command="_XMpQd1IMEeugidN2TbX9wg"/>
   </bindingTables>
   <bindingTables xmi:id="_XOcAIVIMEeugidN2TbX9wg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_XLxtvlIMEeugidN2TbX9wg">
-    <bindings xmi:id="_wNEn8FIMEeuTqoYHUTCSpQ" keySequence="M1+W" command="_XObZElIMEeugidN2TbX9wg"/>
+    <bindings xmi:id="_op9I4FIZEeug4euBIpkPcA" keySequence="M1+W" command="_XObZElIMEeugidN2TbX9wg"/>
   </bindingTables>
   <bindingTables xmi:id="_X8q_IVIMEeugidN2TbX9wg" bindingContext="_X8q_IFIMEeugidN2TbX9wg"/>
   <bindingTables xmi:id="_X8rmMVIMEeugidN2TbX9wg" bindingContext="_X8rmMFIMEeugidN2TbX9wg"/>

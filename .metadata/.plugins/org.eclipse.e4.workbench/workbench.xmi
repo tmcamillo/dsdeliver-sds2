@@ -361,7 +361,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3YcCcFIMEeuStNG2PsHAJg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3YjXMFIMEeuStNG2PsHAJg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_28NZjVIMEeuStNG2PsHAJg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_j2_JIFIZEeupCoL-iAoQ5g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_28NZjVIMEeuStNG2PsHAJg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3YcpgFIMEeuStNG2PsHAJg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -389,7 +389,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3YdQkFIMEeuStNG2PsHAJg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3YlMYFIMEeuStNG2PsHAJg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_28MLalIMEeuStNG2PsHAJg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_j3DakFIZEeupCoL-iAoQ5g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_28MLalIMEeuStNG2PsHAJg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_3YdQkVIMEeuStNG2PsHAJg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1097,7 +1097,7 @@
     <bindings xmi:id="_29QiXVIMEeuStNG2PsHAJg" keySequence="ALT+CR" command="_28JvF1IMEeuStNG2PsHAJg"/>
   </bindingTables>
   <bindingTables xmi:id="_2-GP0FIMEeuStNG2PsHAJg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_27Wd1VIMEeuStNG2PsHAJg">
-    <bindings xmi:id="_2-GP0VIMEeuStNG2PsHAJg" keySequence="M1+W" command="_2-Fow1IMEeuStNG2PsHAJg"/>
+    <bindings xmi:id="_jc51MVIZEeupCoL-iAoQ5g" keySequence="M1+W" command="_2-Fow1IMEeuStNG2PsHAJg"/>
   </bindingTables>
   <bindingTables xmi:id="_3jajYFIMEeuStNG2PsHAJg" bindingContext="_3jZ8UFIMEeuStNG2PsHAJg"/>
   <bindingTables xmi:id="_3jajYlIMEeuStNG2PsHAJg" bindingContext="_3jajYVIMEeuStNG2PsHAJg"/>
